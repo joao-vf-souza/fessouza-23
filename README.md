@@ -1,5 +1,4 @@
-# 😎 Eu sou o João!
-
+# Bem-vindo 👋
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
@@ -10,15 +9,15 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Olá! Eu sou **João V. F. Souza** — user **Fessouza** (apelido criado a partir de *Fernandes* + *Souza*).
+Olá! Eu sou **João V. F. Souza** — user **joao-vf-souza**.
 
 🎓 **Estudante de Sistemas de Informação na UNESP Bauru** (desde 2023)  
-💼 **Estagiário em desenvolvimento PHP e jQuery**  
+💼 **Desenvolvedor Back-end Junior em PHP**  
 🎯 **Técnico em Desenvolvimento de Sistemas pela ETEC Bauru**
 
-Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **acessibilidade digital**. Um dos meus projetos favoritos foi uma aplicação web voltada para daltonismo — tornando a internet mais inclusiva para todos! 🌈
+Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **back-end**, embora tenha feito bastantes projetos envolvendo front-end. Um dos meus projetos favoritos foi uma aplicação web voltada para daltonismo, onde aprendi um pouco mais sobre inclusão digital.
 
 ---
 
@@ -29,19 +28,18 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **aces
 <td width="50%">
 
 ### 🔥 Atualmente
-- 💼 **Estagiando** com **PHP** e **jQuery**
+- 💼 **Dev. Back-end Junior** com **PHP**
 - 🌐 Aprofundando em **desenvolvimento full stack**
-- 🧠 Estudando **Java** e engenharia de software
-- 🎨 Criando UIs responsivas com **Bootstrap** e **Bulma**
+- 🧠 Estudando **PHP** e **Laravel**
+- 🎨 Criando UIs responsivas com **Bulma** e **Tailwindcss**
 
 </td>
 <td width="50%">
 
 ### 🎯 Focos Principais
-- 🔍 **Acessibilidade Web**
-- ⚡ **Interfaces Dinâmicas**
-- 📱 **Design Responsivo**
-- 🔧 **Integração Full Stack**
+- **Acessibilidade Web**
+- **Interfaces Dinâmicas**
+- **Código limpo e com sentido**
 
 </td>
 </tr>
@@ -58,13 +56,10 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **aces
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Banco de Dados
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Linguagens & Ferramentas
@@ -75,28 +70,6 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **aces
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-## 🎨 Áreas de Especialização
-
-<div align="center">
-
-| 🔧 **Desenvolvimento PHP** | ⚡ **jQuery & JavaScript** | 🌍 **Acessibilidade Web** |
-|:---:|:---:|:---:|
-| APIs robustas e seguras | Interfaces dinâmicas | Design inclusivo |
-| Integração com bancos | Manipulação DOM | Padrões WCAG |
-| Arquitetura MVC | AJAX e requisições | Testes de usabilidade |
-
-</div>
-
----
-
-## 🌟 Destaques
-
-> 💡 **Projeto de Acessibilidade**: Desenvolvendo soluções para daltonismo  
-> 🚀 **Sempre aprendendo**: Explorando novas tecnologias e frameworks  
-> 🤝 **Colaborativo**: Aberto para projetos e troca de conhecimento  
 
 ---
 
