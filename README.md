@@ -82,12 +82,12 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **back
 📧 **jvf.souza@unesp.br**  
 🔗 **[LinkedIn - João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)**  
 
-*Sempre animado para conectar com outros desenvolvedores e contribuir para projetos significativos!* ⭐
+*Sempre animado para conectar com outros desenvolvedores e contribuir para projetos significativos!* :)
 
 </div>
 
 ---
 
 <div align="center">
-<i>🚀 Construindo o futuro, uma linha de código por vez!</i>
+<i>Lembre-se, às vezes é a hora de dar um commit na felicidade! 🤞</i>
 </div>
